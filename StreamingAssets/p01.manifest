@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 2658567504
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ec008b509323bcb55c66e63fb4ed0f85
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1e19a299b959f5b712c049d7eedf4f33
+HashAppended: 0
+ClassTypes:
+- Class: 89
+  Script: {instanceID: 0}
+Assets:
+- Assets/Textures/P0/p01.png
+Dependencies: []
